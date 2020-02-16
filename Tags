@@ -1,0 +1,9 @@
+HTML q tag is used to put small quotation. To do so, write your text within <q>.............</q> tag.
+HTML blockquote tag is used to define a large quoted section. If you have a large quotation then put the entire text within <blockquote>.............</blockquote> tag
+<abbr>	It defines the abbreviation or an acronym.
+<address>	It is used to define the contact information of the document writer.
+<bdo>	It defines the direction of the text.
+<blockquote>	It is used to define a section that is quoted from another source.
+<q>	It is used to put the small quotations.
+<cite>	It defines the title of source from where quotation or work is taken.
+<define>	It is used to define a definition term.
